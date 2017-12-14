@@ -1,0 +1,2 @@
+# RatePredictor
+Predict exchange rates
